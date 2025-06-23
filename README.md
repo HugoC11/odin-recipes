@@ -1,1 +1,2 @@
 # odin-recipes
+This README.md is a self reflection on my first project with TOP. It puts in application all i've learned so far with HTML: the html boilerplate, headings, paragraphs, links, images, ordered and unordered lists and more.
